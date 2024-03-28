@@ -39,7 +39,8 @@ if (isLeader === true) {
 
 price = isLeader === true ? 0 : price + 100;
 
-//** Optaional semi-advanced */
+//** Optaional advanced*/
+// semi advanced
 
 if(isLeader === true){
     if(price > 1000) {
